@@ -48,6 +48,7 @@ Originally published as
 * [Flow XO](https://flowxo.com/) - Create a chatbot with zero coding skills required
 * [Smooch](https://smooch.io/) - Instantly deploy yout bots wherever users are
 * [Rulai](https://rul.ai/) - AI Chatbot to deliver Scalable Self Service
+* [Hermes](https://buildwithhermes.com/) - Operating platform for AI voice agencies. Deploy white-label voice agents with built-in CRM and campaigns, no developer needed. From $149/mo
 
 ### Collaboration
 * [Notion](https://www.notion.so) - All-in-one workspace - notes, tasks, wikis & databases
